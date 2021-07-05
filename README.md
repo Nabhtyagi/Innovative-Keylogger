@@ -10,9 +10,12 @@ We have innovated the primitive kelogger by adding new features :
 - Capturing Audio and Video
 > **Note:** All the collected data will be mailed to any desired email at any schduled period of time.
 
+### Flowchart
+![]/Flowchart.jpeg
 
 ### How to Run
 
 ```sh
+pip install -r requirements.txt
 python -u "*directory_of_the_file*\Innovative_keylogger.py"
 ```
