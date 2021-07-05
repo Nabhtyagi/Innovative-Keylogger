@@ -11,7 +11,7 @@ We have innovated the primitive kelogger by adding new features :
 > **Note:** All the collected data will be mailed to any desired email at any schduled period of time.
 
 ### Flowchart
-![](Innovative%2DKeylogger/Flowchart.jpeg)
+![](Flowchart.jpeg)
 
 ### How to Run
 
