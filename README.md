@@ -21,4 +21,4 @@ We have innovated the primitive kelogger by adding new features :
 
  `pip install -r requirements.txt` 
  
- `python -u "*directory_of_the_file*\Innovative_keylogger.py"`
+ `python -u "./Innovative_keylogger.py"`
